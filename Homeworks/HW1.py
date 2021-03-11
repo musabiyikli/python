@@ -12,10 +12,15 @@ b = [74, 66, 42, 34, 54, 46, 98, 92, 82, 44]
 c = []
 c.extend(a)
 c.extend(b)
-print("Liste:", c )
+print("İlk liste:", a)
+print("İkinci liste:", b)
+print("İki listenin birleşmiş hali:", c )
 c.sort()
 print("Küçükten büyüğe sıralanmış liste:", c)
 print("Liste eleman sayısı:", len(c))
 for q in range (len(c)):
   c[q] *= 2
 print("Listedeki değerlerin 2 ile çarpılmış hali:", c)
+print("Listenin türü:", type(c))
+
+#Musa Bıyıklı musabiyikli@hotmail.com.tr
