@@ -10,8 +10,8 @@ Original file is located at
 Cv1 = {"Ad": "Furkan", "Soyad": "Akkulak", "E-mail": "akkulak.furkan26@gmail.com", "Cinsiyet": "Erkek", "Adres": "Eskişehir"}
 Cv2 = {"Ad": "Onur", "Soyad": "Sever", "E-mail": "redkulus26@hotmail.com", "Cinsiyet": "Erkek", "Adres": "Eskişehir" }
 Cv3 = {"Ad": "Murat", "Soyad": "Türker", "E-mail": "muratturker2k@gmail.com", "Cinsiyet": "Erkek", "Adres": "Eskişehir"}
-Cv4 = {"Ad": "Simay", "Soyad": "Olgaç", "E-mail": "asdasd", "Cinsiyet": "Kadın", "Adres": "İzmir"}
-Cv5 = {"Ad": "Furkan Ahmet", "Soyad": "Orhan", "E-mail": " ", "Cinsiyet": "Erkek", "Adres": "Eskişehir"}
+Cv4 = {"Ad": "Simay", "Soyad": "Olgaç", "E-mail": "simay-olgac@hotmail.com", "Cinsiyet": "Kadın", "Adres": "İzmir"}
+Cv5 = {"Ad": "Furkan Ahmet", "Soyad": "Orhan", "E-mail": "furkanahmetorhan26@hotmail.com", "Cinsiyet": "Erkek", "Adres": "Eskişehir"}
 for t in range (6):
   print("-"*20)
   if t == 0:
